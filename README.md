@@ -261,7 +261,7 @@ I've tweaked its appearance, added and modified features, installed extensions, 
 
 ## 🥰 Follow me
 <ul dir="auto">
-  <li><a href="https://youtube.com/rkprodip/" rel="nofollow">@Instagram</a></li>
+  <li><a href="https://youtube.com/rkprodip/" rel="nofollow">@YouTube</a></li>
 <li><a href="https://github.com/prodipalways/">@Github</a></li>
 <li><a href="https://facebook.com/prodipalways/" rel="nofollow">@Facebook</a></li>
 <li><a href="https://twitter.com/prodipalways/" rel="nofollow">@Twitter</a></li>
