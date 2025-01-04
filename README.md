@@ -9,28 +9,29 @@ I've tweaked its appearance, added and modified features, installed extensions, 
 ## 🛠 VS Code Settings
 
 ## ⚙️ VS Code Extension
-Auto Close Tag (Jun Han)
-Auto Import - ES6, TS, JSX, TSX (Sergey Korenuk)
-Auto Rename Tag (Jun Han)
-Debugger for Chrome
-ESLint (Microsoft)
-indent-rainbow (oderwat)
-HTML CSS Support (ecmel)
-JavaScript (ES6) code snippets (charalampos karypidis)
-Live Server (Ritwick Dey)
-Live Sass Compiler (Glenn Marks)
-Material Icon Theme (Philipp Kief)
-npm Intellisense (Christian Kohler)
-Path Intellisense (Christian Kohler)
-Postman (Postman)
-Prettier - Code formatted (Prettier)
-Reactjs code snippets (charalampos karypidis)
-Simple React Snippets (Burke Holland)
-Snipped (Jefferson Licet)
-Stylelint (Stylelint)
-WordPress Snippets (wpprotools.io)
-VSCode React Refactor (planbcoding)
-Tailwind CSS IntelliSense (Tailwind Labs)
+
+- Auto Close Tag (Jun Han)
+- Auto Import - ES6, TS, JSX, TSX (Sergey Korenuk)
+- Auto Rename Tag (Jun Han)
+- Debugger for Chrome
+- ESLint (Microsoft)
+- indent-rainbow (oderwat)
+- HTML CSS Support (ecmel)
+- JavaScript (ES6) code snippets (charalampos karypidis)
+- Live Server (Ritwick Dey)
+- Live Sass Compiler (Glenn Marks)
+- Material Icon Theme (Philipp Kief)
+- npm Intellisense (Christian Kohler)
+- Path Intellisense (Christian Kohler)
+- Postman (Postman)
+- Prettier - Code formatted (Prettier)
+- Reactjs code snippets (charalampos karypidis)
+- Simple React Snippets (Burke Holland)
+- Snipped (Jefferson Licet)
+- Stylelint (Stylelint)
+- WordPress Snippets (wpprotools.io)
+- VSCode React Refactor (planbcoding)
+- Tailwind CSS IntelliSense (Tailwind Labs)
 
 ## 🎨 VS Code Themes
 
