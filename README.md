@@ -260,7 +260,9 @@ I've tweaked its appearance, added and modified features, installed extensions, 
 </ul>
 
 ## 🥰 Follow me
-- @Github
-- @Facebook
-- @Twitter
-- @Instagram
+<ul dir="auto">
+<li><a href="https://github.com/prodipalways/">@Github</a></li>
+<li><a href="https://facebook.com/prodipalways/" rel="nofollow">@Facebook</a></li>
+<li><a href="https://twitter.com/prodipalways/" rel="nofollow">@Twitter</a></li>
+<li><a href="https://instagram.com/prodipalways/" rel="nofollow">@Instagram</a></li>
+</ul>
