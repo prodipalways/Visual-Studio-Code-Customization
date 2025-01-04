@@ -35,24 +35,24 @@ I've tweaked its appearance, added and modified features, installed extensions, 
 
 ## 🎨 VS Code Themes
 
-Andromeda 👈
-Dracula Official
-Night Owl
-Shades of Purple
-SynthWave '84
-Ayu (Theme)
+- Andromeda 👈
+- Dracula Official
+- Night Owl
+- Shades of Purple
+- SynthWave '84
+- Ayu (Theme)
 
 ## 🔑 VS Code Keyboard Shortcuts
 
 ## ✒ Font Info
 
-Fira Code
-Operator Mono
+- Fira Code
+- Operator Mono
 
 ## 🧑‍💻 Contributors
 
 ## 🥰 Follow me
-@Github
-@Facebook
-@Twitter
-@Instagram
+- @Github
+- @Facebook
+- @Twitter
+- @Instagram
