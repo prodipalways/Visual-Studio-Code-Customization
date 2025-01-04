@@ -173,8 +173,10 @@ I've tweaked its appearance, added and modified features, installed extensions, 
 
 ## ✒ Font Info
 
-- Fira Code
-- Operator Mono
+<ul dir="auto">
+<li><a href="https://fonts.google.com/specimen/Fira+Code" rel="nofollow">Fira Code</a></li>
+<li><a href="https://www.typography.com/fonts/operator/styles" rel="nofollow">Operator Mono</a></li>
+</ul>
 
 ## 🧑‍💻 Contributors
 
