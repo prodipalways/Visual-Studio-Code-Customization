@@ -1,4 +1,4 @@
-## Visual Studio Code Customization
+# Visual Studio Code Customization
 
 ## 📝 Why?
 
