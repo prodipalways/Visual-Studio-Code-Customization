@@ -255,6 +255,10 @@ I've tweaked its appearance, added and modified features, installed extensions, 
 
 ## 🧑‍💻 Contributors
 
+<ul dir="auto">
+<li><a href="https://github.com/prodipalways/">@Prodip Ray</a></li>
+</ul>
+
 ## 🥰 Follow me
 - @Github
 - @Facebook
