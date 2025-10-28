@@ -7,7 +7,7 @@ I've been a loyal user of Visual Studio Code since 2018, and it has become my pr
 I've tweaked its appearance, added and modified features, installed extensions, and even created a personalized theme because I haven't found a theme that's absolutely perfect for me. Each time I set up a new work environment, I find myself manually configuring these settings. To streamline this process, I've uploaded all my settings here, so I can quickly apply them. Feel free to use any of them for your convenience.
 
 ## 🛠 VS Code Settings
-
+<pre>{
   <span class="pl-s"><span class="pl-pds">"</span>editor.fontSize<span class="pl-pds">"</span></span>: 20,
   <span class="pl-s"><span class="pl-pds">"</span>editor.tabSize<span class="pl-pds">"</span></span>: 2,
   <span class="pl-s"><span class="pl-pds">"</span>editor.wordWrap<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span>on<span class="pl-pds">"</span></span>,
@@ -80,7 +80,7 @@ I've tweaked its appearance, added and modified features, installed extensions, 
       <span class="pl-s"><span class="pl-pds">"</span>javascript<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span>javascriptreact<span class="pl-pds">"</span></span>
    }
 }
-
+</pre>
 ## ⚙️ VS Code Extension
 
 - Auto Close Tag (Jun Han)
