@@ -8,7 +8,6 @@ I've tweaked its appearance, added and modified features, installed extensions, 
 
 ## 🛠 VS Code Settings
 
-```
   <span class="pl-s"><span class="pl-pds">"</span>editor.fontSize<span class="pl-pds">"</span></span>: 20,
   <span class="pl-s"><span class="pl-pds">"</span>editor.tabSize<span class="pl-pds">"</span></span>: 2,
   <span class="pl-s"><span class="pl-pds">"</span>editor.wordWrap<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span>on<span class="pl-pds">"</span></span>,
@@ -81,7 +80,6 @@ I've tweaked its appearance, added and modified features, installed extensions, 
       <span class="pl-s"><span class="pl-pds">"</span>javascript<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span>javascriptreact<span class="pl-pds">"</span></span>
    }
 }
-```
 
 ## ⚙️ VS Code Extension
 
