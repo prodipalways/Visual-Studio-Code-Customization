@@ -7,80 +7,81 @@ I've been a loyal user of Visual Studio Code since 2018, and it has become my pr
 I've tweaked its appearance, added and modified features, installed extensions, and even created a personalized theme because I haven't found a theme that's absolutely perfect for me. Each time I set up a new work environment, I find myself manually configuring these settings. To streamline this process, I've uploaded all my settings here, so I can quickly apply them. Feel free to use any of them for your convenience.
 
 ## 🛠 VS Code Settings
-<pre>{
-  <span class="pl-s"><span class="pl-pds">"</span>editor.fontSize<span class="pl-pds">"</span></span>: 20,
-  <span class="pl-s"><span class="pl-pds">"</span>editor.tabSize<span class="pl-pds">"</span></span>: 2,
-  <span class="pl-s"><span class="pl-pds">"</span>editor.wordWrap<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span>on<span class="pl-pds">"</span></span>,
-  <span class="pl-s"><span class="pl-pds">"</span>editor.cursorSmoothCaretAnimation<span class="pl-pds">"</span></span>: true,
-  <span class="pl-s"><span class="pl-pds">"</span>editor.cursorBlinking<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span>expand<span class="pl-pds">"</span></span>,
-  <span class="pl-s"><span class="pl-pds">"</span>editor.formatOnSave<span class="pl-pds">"</span></span>: true,
-  <span class="pl-s"><span class="pl-pds">"</span>editor.formatOnPaste<span class="pl-pds">"</span></span>: true,
-  <span class="pl-s"><span class="pl-pds">"</span>editor.formatOnType<span class="pl-pds">"</span></span>: true,
-  <span class="pl-s"><span class="pl-pds">"</span>workbench.colorCustomizations<span class="pl-pds">"</span></span>: {
-    <span class="pl-s"><span class="pl-pds">"</span>editorGroupHeader.tabsBackground<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span>#2c2c54<span class="pl-pds">"</span></span>,
-    <span class="pl-s"><span class="pl-pds">"</span>activityBar.background<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span>#2c2c54<span class="pl-pds">"</span></span>,
-    <span class="pl-s"><span class="pl-pds">"</span>sideBar.background<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span>#141422<span class="pl-pds">"</span></span>,
-    <span class="pl-s"><span class="pl-pds">"</span>minimap.background<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span>#141422<span class="pl-pds">"</span></span>,
-    <span class="pl-s"><span class="pl-pds">"</span>tab.activeBackground<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span>#706fd3<span class="pl-pds">"</span></span>,
-    <span class="pl-s"><span class="pl-pds">"</span>tab.inactiveBackground<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span>#191846<span class="pl-pds">"</span></span>,
-    <span class="pl-s"><span class="pl-pds">"</span>terminal.border<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span>#2c2c54<span class="pl-pds">"</span></span>,
-    <span class="pl-s"><span class="pl-pds">"</span>terminal.background<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span>#2c2c54<span class="pl-pds">"</span></span>,
-    <span class="pl-s"><span class="pl-pds">"</span>statusBar.background<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span>#474787<span class="pl-pds">"</span></span>,
-    <span class="pl-s"><span class="pl-pds">"</span>scrollbarSlider.background<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span>#474787<span class="pl-pds">"</span></span>,
-    <span class="pl-s"><span class="pl-pds">"</span>scrollbarSlider.hoverBackground<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span>#706fd3<span class="pl-pds">"</span></span>
+```
+{
+  "editor.fontSize": 20,
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "editor.cursorSmoothCaretAnimation": true,
+  "editor.cursorBlinking": "expand",
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "editor.formatOnType": true,
+  "workbench.colorCustomizations": {
+    "editorGroupHeader.tabsBackground": "#2c2c54",
+    "activityBar.background": "#2c2c54",
+    "sideBar.background": "#141422",
+    "minimap.background": "#141422",
+    "tab.activeBackground": "#706fd3",
+    "tab.inactiveBackground": "#191846",
+    "terminal.border": "#2c2c54",
+    "terminal.background": "#2c2c54",
+    "statusBar.background": "#474787",
+    "scrollbarSlider.background": "#474787",
+    "scrollbarSlider.hoverBackground": "#706fd3"
   },
-  <span class="pl-s"><span class="pl-pds">"</span>editor.tokenColorCustomizations<span class="pl-pds">"</span></span>: {
-    <span class="pl-s"><span class="pl-pds">"</span>comments<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span>#95afc0<span class="pl-pds">"</span></span>
+  "editor.tokenColorCustomizations": {
+    "comments": "#95afc0"
   },
-  <span class="pl-s"><span class="pl-pds">"</span>editor.linkedEditing<span class="pl-pds">"</span></span>: true,
-  <span class="pl-s"><span class="pl-pds">"</span>editor.bracketPairColorization.enabled<span class="pl-pds">"</span></span>: true,
-  <span class="pl-s"><span class="pl-pds">"</span>editor.guides.bracketPairs<span class="pl-pds">"</span></span>: true,
-  <span class="pl-s"><span class="pl-pds">"</span>editor.guides.bracketPairsHorizontal<span class="pl-pds">"</span></span>: true,
-  <span class="pl-s"><span class="pl-pds">"</span>editor.hover.enabled<span class="pl-pds">"</span></span>: false,
-  <span class="pl-s"><span class="pl-pds">"</span>window.zoomLevel<span class="pl-pds">"</span></span>: 1,
+  "editor.linkedEditing": true,
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": true,
+  "editor.guides.bracketPairsHorizontal": true,
+  "editor.hover.enabled": false,
+  "window.zoomLevel": 1,
   // Live Server 
-  <span class="pl-s"><span class="pl-pds">"</span>liveServer.settings.CustomBrowser<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span>chrome:PrivateMode<span class="pl-pds">"</span></span>,
-  <span class="pl-s"><span class="pl-pds">"</span>liveServer.settings.donotShowInfoMsg<span class="pl-pds">"</span></span>: true,
-  <span class="pl-s"><span class="pl-pds">"</span>liveServer.settings.donotVerifyTags<span class="pl-pds">"</span></span>: true,
+  "liveServer.settings.CustomBrowser": "chrome:PrivateMode",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "liveServer.settings.donotVerifyTags": true,
   // Live SASS Compiler
-  <span class="pl-s"><span class="pl-pds">"</span>liveSassCompile.settings.formats<span class="pl-pds">"</span></span>: [
+  "liveSassCompile.settings.formats": [
     {
-      <span class="pl-s"><span class="pl-pds">"</span>format<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span>compressed<span class="pl-pds">"</span></span>,
-      <span class="pl-s"><span class="pl-pds">"</span>extensionName<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span>.min.css<span class="pl-pds">"</span></span>,
-      <span class="pl-s"><span class="pl-pds">"</span>savePath<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span>/css<span class="pl-pds">"</span></span>
+      "format": "compressed",
+      "extensionName": ".min.css",
+      "savePath": "/css"
     }
   ],
-  <span class="pl-s"><span class="pl-pds">"</span>liveSassCompile.settings.generateMap<span class="pl-pds">"</span></span>: false,
+  "liveSassCompile.settings.generateMap": false,
   // VS Code Theme Customization
-  <span class="pl-s"><span class="pl-pds">"</span>workbench.iconTheme<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span>material-icon-theme<span class="pl-pds">"</span></span>,
-  <span class="pl-s"><span class="pl-pds">"</span>workbench.colorTheme<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span>Andromeda<span class="pl-pds">"</span></span>,
-  <span class="pl-s"><span class="pl-pds">"</span>workbench.editor.enablePreview<span class="pl-pds">"</span></span>: false,
-  <span class="pl-s"><span class="pl-pds">"</span>terminal.integrated.defaultProfile.windows<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span>Git Bash<span class="pl-pds">"</span></span>,
-  <span class="pl-s"><span class="pl-pds">"</span>terminal.integrated.fontSize<span class="pl-pds">"</span></span>: 20,
-  <span class="pl-s"><span class="pl-pds">"</span>diffEditor.wordWrap<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span>on<span class="pl-pds">"</span></span>,
-  <span class="pl-s"><span class="pl-pds">"</span>security.workspace.trust.untrustedFiles<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span>open<span class="pl-pds">"</span></span>,
-  // <span class="pl-s"><span class="pl-pds">"</span>files.autoSave<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span>afterDelay<span class="pl-pds">"</span></span>,
-  // <span class="pl-s"><span class="pl-pds">"</span>files.autoSaveDelay<span class="pl-pds">"</span></span>: 10,
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorTheme": "Andromeda",
+  "workbench.editor.enablePreview": false,
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "terminal.integrated.fontSize": 20,
+  "diffEditor.wordWrap": "on",
+  "security.workspace.trust.untrustedFiles": "open",
+  // "files.autoSave": "afterDelay",
+  // "files.autoSaveDelay": 10,
   
   // Prettier Config
-  <span class="pl-s"><span class="pl-pds">"</span>prettier.proseWrap<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span>always<span class="pl-pds">"</span></span>,
-  <span class="pl-s"><span class="pl-pds">"</span>prettier.singleQuote<span class="pl-pds">"</span></span>: true,
-  <span class="pl-s"><span class="pl-pds">"</span>prettier.arrowParens<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span>avoid<span class="pl-pds">"</span></span>,
-    <span class="pl-s"><span class="pl-pds">"</span>editor.defaultFormatter<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span>esbenp.prettier-vscode<span class="pl-pds">"</span></span>,
-    <span class="pl-s"><span class="pl-pds">"</span>[html]<span class="pl-pds">"</span></span>: {
-    <span class="pl-s"><span class="pl-pds">"</span>editor.defaultFormatter<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span>vscode.html-language-features<span class="pl-pds">"</span></span>
+  "prettier.proseWrap": "always",
+  "prettier.singleQuote": true,
+  "prettier.arrowParens": "avoid",
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
   },
   // Screencast Mode
-  <span class="pl-s"><span class="pl-pds">"</span>screencastMode.onlyKeyboardShortcuts<span class="pl-pds">"</span></span>: true,
-  <span class="pl-s"><span class="pl-pds">"</span>screencastMode.mouseIndicatorColor<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span>#f1c40f<span class="pl-pds">"</span></span>,
-  <span class="pl-s"><span class="pl-pds">"</span>screencastMode.verticalOffset<span class="pl-pds">"</span></span>: 0,
+  "screencastMode.onlyKeyboardShortcuts": true,
+  "screencastMode.mouseIndicatorColor": "#f1c40f",
+  "screencastMode.verticalOffset": 0,
 
-  // Enable Emmet support <span class="pl-k">for</span> JSX
-   <span class="pl-s"><span class="pl-pds">"</span>emmet.includeLanguages<span class="pl-pds">"</span></span>: {
-      <span class="pl-s"><span class="pl-pds">"</span>javascript<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span>javascriptreact<span class="pl-pds">"</span></span>
+  // Enable Emmet support for JSX
+   "emmet.includeLanguages": {
+      "javascript": "javascriptreact"
    }
 }
-</pre>
+```
 ## ⚙️ VS Code Extension
 
 - Auto Close Tag (Jun Han)
